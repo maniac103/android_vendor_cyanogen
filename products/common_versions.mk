@@ -37,4 +37,5 @@ else
 endif
 
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.modversion=CyanogenMod-$(CMVERSION)
+    ro.modversion=CyanogenMod-$(CMVERSION) \
+    ro.cm.version=$(CMVERSION)
