@@ -37,6 +37,7 @@ add_lunch_combo cyanogen_heroc-userdebug
 add_lunch_combo cyanogen_inc-userdebug
 add_lunch_combo cyanogen_iyokan-userdebug
 add_lunch_combo cyanogen_jordan-userdebug
+add_lunch_combo cyanogen_jordan_plus-userdebug
 add_lunch_combo cyanogen_legend-userdebug
 add_lunch_combo cyanogen_leo-userdebug
 add_lunch_combo cyanogen_liberty-userdebug
